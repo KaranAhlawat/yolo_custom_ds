@@ -1,0 +1,10 @@
+# Location of data
+train: anomalies_data/images/train
+val: anomalies_data/images/val
+test: anomalies_data/images/test
+
+# Number of classes
+nc: 2
+
+# class labels/names
+names: ["negative_anomaly", "positive_anomaly"]
